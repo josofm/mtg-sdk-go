@@ -1,4 +1,4 @@
-// package mtg
+package mtg
 
 // import (
 // 	"errors"
